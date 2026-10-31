@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+learning_coach.db
+.venv/
